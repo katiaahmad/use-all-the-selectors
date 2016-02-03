@@ -15,7 +15,7 @@ nav > ul {
 }
 
 .wrapper {
-  word-wrap: background-color: #eee8d5;
+  background-color: #eee8d5;
 }
 
 #contents, #favs, #facts, #types {
@@ -34,7 +34,7 @@ html, mark {
   background-color: #719e07;
 }
 
-rel="external" {
+a[rel="external"] {
   background-color: #2694d8;
 }
 
